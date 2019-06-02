@@ -1,0 +1,14 @@
+{
+  "name": "terminal-commands",
+  "version": "1.0.0",
+  "description": "Bloc - Working with Node Modules Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meredith Harris",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
